@@ -7,7 +7,7 @@
 - 🌍 Based in **Nairobi, Kenya**
 - 🏢 Currently working at **EBasket**
 - 🧠 Learning **LangChain, LangGraph, AI Agents, and Workflow Automation Engineering**
-- 🤝 Open to collaborating on **Data Engineering, MLOps, and AI Automation projects**
+- 🤝 Open to collaborating on **Data Engineering and AI Automation projects**
 - ✉️ Reach me at **ogollasam@gmail.com**
 - ⚡ Fun fact: **Every day, humans generate 2.5 quintillion bytes of data -- 90% of all data ever created was generated in the last two years alone.**
 
