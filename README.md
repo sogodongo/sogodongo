@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sam Odongo 👋</h1>
 <h3 align="center">Data Engineer · Data Scientist · AI Automation Engineer</h3>
-<p align="center">Building robust data platforms, scalable ML pipelines, and intelligent automation systems.</p>
+<p align="center">Building robust data platforms and intelligent automation systems.</p>
 
 ---
 
